@@ -4,7 +4,7 @@
  * @author: @Haxif
  * @Date: 2021-07-03 13:12:26
  * @LastEditors: @Haxif
- * @LastEditTime: 2021-07-03 17:10:06
+ * @LastEditTime: 2021-07-03 17:27:19
 -->
 
 # 财务管理教学系统
@@ -25,7 +25,7 @@
 
 ## 漏洞（Bug）提交
 请按照下面的内容提交到邮箱：:point_right:
-[huangrui@gengdan.edu.cn](huangrui@gengdan.edu.cn) <br/>
+huangrui@gengdan.edu.cn <br/>
 :::warning
 请在邮件内请提及以下内容
 :::
