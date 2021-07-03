@@ -4,20 +4,20 @@
  * @author: @Haxif
  * @Date: 2021-07-03 13:18:12
  * @LastEditors: @Haxif
- * @LastEditTime: 2021-07-03 14:07:32
+ * @LastEditTime: 2021-07-03 14:31:15
  */
 module.exports = {
-  title: "Rio 的 文档",
-  description: "Rio 的 开发者博客",
+  title: "BGDFMSYS 的 文档",
+  description: "BGDFMSYS 的 开发者文档",
   themeConfig: {
     docsDir: "docs",
 
     nav: [
       { text: "Guide", link: "/", activeMatch: "^/$|^/guide/" },
-      {
-        text: "Release Notes",
-        link: "https://github.com/RioMaker/vitepress-rio-docs/releases",
-      },
+      // {
+      //   text: "Release Notes",
+      //   link: "https://github.com/RioMaker/vitepress-rio-docs/releases",
+      // },
     ],
 
     sidebar: {
